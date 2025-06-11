@@ -29,4 +29,14 @@ This Real-Time Chatting App is an ideal example of a full-stack web development 
 
 #OUTPUT#
 
+![Image](https://github.com/user-attachments/assets/e3ac196a-7abc-49d6-9364-edd6463d01e7)
+
+![Image](https://github.com/user-attachments/assets/e6f524f2-ba16-45ca-8538-d7f3d5044ba8)
+
+![Image](https://github.com/user-attachments/assets/48233043-f60a-4a48-b669-14c716794549)
+
+![Image](https://github.com/user-attachments/assets/12426e5a-aafb-4657-8f1a-a952a520be3f)
+
+![Image](https://github.com/user-attachments/assets/9f467015-b445-404a-82ac-d79dcbbc5de6)
+
 
